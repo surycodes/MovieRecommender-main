@@ -2,7 +2,7 @@
 
 A content-based movie recommendation system that suggests similar movies based on genres, keywords, tagline, cast, and director using Natural Language Processing (NLP) and cosine similarity. Built using Python, Streamlit, and the OMDB API.
 
-🔗 **Live App**: https://movierecommendationsyst.streamlit.app/
+🔗 **Live App**: https://hosturl.link/6ARuX6
 
 ---
 
